@@ -1,3 +1,6 @@
 /node_modules
 /out
+/dist
+/.vscode
+/.electron-cache
 package-lock.json
